@@ -1,16 +1,3 @@
- /** Creating and searching TreeMaps and Treesets
- * Computer Engineering Technology-Computer Science: Level 3
- * 
- * Professor: James Mwangi PhD
- * 
- * Student Name:Thomas Stanley
- * Student ID: 41037136
- * Program: CET
- * Course: 8130
- * Lab Section: 301
- * 
- */
-
 /**
  * Contains displayMenu() for use in main
  * @author Thomas Stanley
