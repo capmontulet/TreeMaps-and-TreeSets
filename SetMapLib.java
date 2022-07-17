@@ -5,19 +5,6 @@ import java.util.Scanner;
 import java.util.TreeMap;
 import java.util.TreeSet;
 
-/** Creating and searching TreeMaps and Treesets
-* Computer Engineering Technology-Computer Science: Level 3
-* 
-* Professor: James Mwangi PhD
-* 
-* Student Name:Thomas Stanley
-* Student ID: 41037136
-* Program: CET
-* Course: 8130
-* Lab Section: 301
-* 
-*/
-
 /**
  * Class contains methods to create treemap, display treemap, search for a specific value in a treemap, create treeset
  * add new value to a treemap key, and reverse a treeset.
